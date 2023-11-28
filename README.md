@@ -1,4 +1,4 @@
-# Flask Web App Tutorial
+# Flask Notetaking Web App Security Project
 
 ## Setup & Installation
 
